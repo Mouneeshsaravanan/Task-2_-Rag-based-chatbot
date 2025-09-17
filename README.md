@@ -1,5 +1,5 @@
 
-# Techjays PDF RAG Chat 
+#  RAG Chat BOT(Techjays Task 2)
 
 A Retrieval-Augmented Generation (RAG) chat app built with Streamlit. Upload one or more PDF files; the app indexes them with FAISS and answers questions using Google Gemini or, if unavailable, a Hugging Face Inference API fallback.
 
