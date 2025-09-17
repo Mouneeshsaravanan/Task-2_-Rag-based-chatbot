@@ -1,5 +1,5 @@
 
-#  RAG Chat BOT(Techjays Task 2)
+#  RAG based Chat Bot(Techjays Task 2)
 
 A Retrieval-Augmented Generation (RAG) chat app built with Streamlit. Upload one or more PDF files; the app indexes them with FAISS and answers questions using Google Gemini or, if unavailable, a Hugging Face Inference API fallback.
 
@@ -125,3 +125,10 @@ Key libraries in `requirements.txt`:
 
 ## License
 Add your preferred license (e.g., MIT).
+
+
+OUTPUT
+
+<img width="980" height="877" alt="image" src="https://github.com/user-attachments/assets/84bb6c27-cedd-4600-932b-f83b6bed14d3" />
+<img width="1027" height="906" alt="image" src="https://github.com/user-attachments/assets/4ae34e99-ae33-4d06-9aec-5c9376936687" />
+<img width="1082" height="896" alt="image" src="https://github.com/user-attachments/assets/ca345899-b19b-459f-a585-12777e33e029" />
